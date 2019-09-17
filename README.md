@@ -9,7 +9,7 @@ This is a paragraph of text.
 
 <!-- This is my part to code in -->
 
-
+Elise wrote this. Hopefully you used `git pull` to integrate it into your own version.
 
 
 
