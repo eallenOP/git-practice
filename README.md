@@ -1,4 +1,5 @@
 # git-practice
+Change the file after git resert --hard
 
 ## subheading
 This is a paragraph of text.
