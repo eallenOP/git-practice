@@ -17,7 +17,8 @@ Elise wrote this. Hopefully you used `git pull` to integrate it into your own ve
 
 <!-- This is your part to code in -->
 
-
+### Stuff I don't really want
+Here is some stuff.
 
 
 <!-- This is johnny's part to code in -->
